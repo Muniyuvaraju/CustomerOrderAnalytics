@@ -1,0 +1,22 @@
+# Node
+api/node_modules/
+
+# Environment secrets
+api/.env
+api/.env.*
+*.env
+
+# Logs and debug
+npm-debug.log*
+logs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Archives
+CustomerOrderAnalytics*.zip
+
+# Power BI artifacts
+powerbi/*.pbix
